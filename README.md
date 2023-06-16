@@ -23,7 +23,6 @@ Each work item is represented by a card that is placed on the board. As the work
 
 # Tech Stack
 - React-JS
-- Packages: React DnD or react-beautiful-dnd
 - Material UI
 - React Icons
 - React Router
