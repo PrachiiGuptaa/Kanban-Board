@@ -2,9 +2,9 @@
 
 # **Description**
 
-Kanban boards are a visual way to manage work. They help teams visualize their work, identify bottlenecks, and continuously improve their processes.
+Kanban board is a visual way to manage work. It help teams visualize their work, identify bottlenecks, and continuously improve their processes.
 
-Kanban boards are made up of columns, each of which represents a stage in the workflow. For example, a Kanban board for software development might have columns for "To Do", "In Progress", and "Done".
+Kanban board is made up of columns, each of which represents a stage in the workflow. For example, a Kanban board for software development might have columns for "To Do", "In Progress", and "Done".
 
 Each work item is represented by a card that is placed on the board. As the work item moves through the workflow, the card is moved from column to column. This allows the team to see at a glance which tasks are in progress, which tasks are waiting, and which tasks have been completed.
 
@@ -36,6 +36,7 @@ To install and run the application locally, follow these steps:
 4. Open http://localhost:3000/ in your browser to view the application
 
 # Deployment link
+- http://kanban-board-eight-pi.vercel.app
 
 # Collaborators
 - Prachi Gupta
